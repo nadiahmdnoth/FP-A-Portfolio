@@ -2,7 +2,9 @@
 
 ## Overview
 An Excel FP&A case study demonstrating monthly financial performance monitoring, budget-versus-actual variance analysis, forecasting and executive reporting.
+## Dashboard Preview
 
+![Financial Performance Dashboard](images/dashboard-preview.png)
 **Data:** Entirely fictional FY2026 monthly data in Malaysian ringgit (RM). No confidential information is included.
 
 ## Key analyses
